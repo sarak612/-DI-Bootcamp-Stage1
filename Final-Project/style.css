@@ -1,0 +1,52 @@
+*{
+margin: 0px;
+padding:0px;
+}
+
+body {
+background-color: ;
+opacity:;
+}
+
+.h1-color {
+color: silver
+}
+
+
+.h2-color {
+color: silver
+}
+
+.type1{
+width: 15%;
+display: block;
+margin: 0px auto;
+
+
+}
+main {
+   height: calc(100vh - 70px);
+   display: flex;
+   background-color: #f9f9f9;
+ 
+body{
+font-family:'Poppins';
+text-align: center;
+}
+.wrapper{
+width: 90%;
+margin: 0 auto;
+
+}
+
+
+
+.banner.card img{
+max width: 100%;
+height: auto;
+}
+
+
+
+
+}
